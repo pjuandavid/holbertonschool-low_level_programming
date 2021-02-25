@@ -9,8 +9,8 @@ void print_alphabet(void);
 int letra = 'a';
 while (letra <= 'z')
 {
-_putchar(letras);
-letras++;
+_putchar(letra);
+letra++;
 }
 _putchar('\n');
 }
