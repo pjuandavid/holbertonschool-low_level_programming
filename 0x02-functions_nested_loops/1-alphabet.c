@@ -4,13 +4,13 @@
  * Description: use _putchar.c
  * Return: 0 H
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
-int letra = 'a';
-while (letra <= 'z')
-{
-_putchar(letra);
-letra++;
-}
-_putchar('\n');
+	int letter = 'a';
+	while (letter <= 'z')
+	{
+		_putchar(letter);
+		letter++;
+		}
+		_putchar('\n');
 }
