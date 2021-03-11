@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include <stdio.h>
 /**
  * _isupper - UPPERCASE CHARACTER
  * @c: CHARACTERS
